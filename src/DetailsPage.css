@@ -1,0 +1,22 @@
+#dropdown-menu-align-right {
+    background-color: transparent;
+    color: #495057;
+    border-color: #343a40;
+    width: 100%;
+    text-align: left;
+}
+.dropdown .dropdown-menu.show {
+    width: 100%;
+    transform: translate(0px, 40px);
+}
+button.btn {
+    background-color: #394db1;
+    border-color: #394db1;
+    color: #faee6b;
+}
+button.btn:hover {
+    color: #faee6b;
+}
+.form-check-label {
+    color: #394db1;
+}
